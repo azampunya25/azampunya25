@@ -16,9 +16,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with .Net Framework, .Net Core, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with .Net Framework, .Net Core, <br/> Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/azampunya25).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: zamzamcms@gmail.com.
